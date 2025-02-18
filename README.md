@@ -51,8 +51,8 @@ Este proyecto es un laboratorio para implementar un API RESTful de CRUD de usuar
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
+   git clone https://github.com/RoniPG/lab-crud-users.git
+   cd lab-crud-users.git
 
 2. **Instalar las dependencias:**
    ```bash
